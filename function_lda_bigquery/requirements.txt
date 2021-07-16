@@ -1,0 +1,10 @@
+# Function dependencies, for example:
+# package>=version
+gensim
+setuptools
+wheel
+spacy
+langdetect
+textblob
+nltk
+google-cloud-storage
